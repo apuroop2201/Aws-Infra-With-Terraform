@@ -1,1 +1,1 @@
-hi
+# simple-terraform-project
